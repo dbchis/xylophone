@@ -39,19 +39,19 @@
 
 ## 4. Kết quả
 1. Tạo từ ngẫu nhiên sử dụng package `english_words`  
-   ![Placeholder for Image 1](link_to_image_1)
+   ![img.png](images%2Fimg.png)
 
 2. Phát âm thanh sử dụng package `just_audio`  
-   ![Placeholder for Image 2](link_to_image_2)
+   ![img_2.png](images%2Fimg_2.png)
 
 3. Play Multiple Sounds  
-   ![Placeholder for Image 3](link_to_image_3)
+   ![img_1.png](images%2Fimg_1.png)
 
 4. Function  
-   ![Placeholder for Image 4](link_to_image_4)
+   ![img_3.png](images%2Fimg_3.png)
 
 5. App Xylophone  
-   ![Placeholder for Image 5](link_to_image_5)
+   ![img_4.png](images%2Fimg_4.png)
 
 ## 5. Thảo luận
 Việc phát triển ứng dụng Xylophone không chỉ giúp nâng cao kỹ năng lập trình của bạn mà còn cung cấp trải nghiệm thực tế trong việc tạo ra sản phẩm ứng dụng. Những kiến thức thu được về cách kết hợp các thư viện mã nguồn mở và xử lý âm thanh sẽ là nền tảng vững chắc cho các dự án tương lai.
